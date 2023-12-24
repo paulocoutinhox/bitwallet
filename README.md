@@ -9,6 +9,8 @@
 
 ## Project
 
+[![Build](https://github.com/paulocoutinhox/bitwallet/actions/workflows/python.yml/badge.svg)](https://github.com/paulocoutinhox/bitwallet/actions/workflows/python.yml)
+
 This project check your Bitcoin wallet amount.
 
 ## How to use
